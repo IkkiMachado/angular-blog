@@ -3,6 +3,10 @@
   margin-top: 15px;
 }
 
+.container__small-card:hover{
+  cursor: pointer;
+}
+
 .container__small-card__content {
   display: flex;
   flex-direction: row;
